@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Samuel (but you can call me Sammy)
+# 👋 Hi there, I'm Samuel
 
 I'm a Software Engineer with a background in Artificial Intelligence and Big Data. I build robust backend systems, create intelligent solutions, and occasionally talk to my computer to make it work (just kidding, mostly). 
 
